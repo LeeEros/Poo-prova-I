@@ -50,7 +50,7 @@ namespace logistica
 			} 
 			else if(combustivel<= 2.0 && combustivel > 1.1)
 			{
-				Console.WriteLine("Busque um posto próximo ou será bloqueado");
+				Console.WriteLine("Busque um posto próximo urgentemente");
 			} 
 			else if(combustivel<= 1.0)
 			{
